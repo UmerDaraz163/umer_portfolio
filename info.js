@@ -63,7 +63,7 @@ let info = {
       position: "Software Engineer",
       description:
         "Worked on multiple projects, primarily platforms for ticket deals and affiliate ticketing. Utilized Laravel for backend development, JavaScript, jQuery, and Bootstrap for responsive interfaces. Designed efficient databases, integrated third-party APIs for real-time updates, and managed timelines using JIRA. Led team and project management to ensure successful project delivery.",
-      skills: ["Javascript", "JQuery", "Laravel", "PHP", "API Integration", "Project Management","Database Design and Management" , "Client Communication and Stakeholder Management"]
+      skills: ["Javascript", "JQuery", "Laravel", "PHP", "API Integration", "Project Management","Database Design and Management" , "Client Communication"," Stakeholder Management"]
     },
     {
       name: "MACES",

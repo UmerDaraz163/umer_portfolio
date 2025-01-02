@@ -86,7 +86,7 @@ export default {
 
 @media screen and (max-width: 580px) {
   #app {
-    width: fit-content;
+    width: 100%;
   }
 }
 
