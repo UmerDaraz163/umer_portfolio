@@ -87,7 +87,7 @@ let info = {
     {
       title: "Language",
       info: [
-        "PPHP(Laravel)","JavaScript (including XState for state management)","Java"],
+        "PHP(Laravel)","JavaScript (including XState for state management)","Java"],
       icon: "fa fa-code"
     },
     {
